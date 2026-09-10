@@ -12,6 +12,18 @@ Fast featureful friendly wifi terminal UI. 🛜✨
 x install wifitui
 ```
 
+## Code insight
+
+Total: **9,196** lines of code across **54** files in the top 5 languages.
+
+| Language | Code | Comments | Blanks | Files |
+|----------|-----:|---------:|-------:|------:|
+| Go | 8,712 | 607 | 1,268 | 49 |
+| Nix | 300 | 1 | 47 | 2 |
+| ObjectiveC | 139 | 1 | 13 | 1 |
+| Makefile | 24 | 2 | 11 | 1 |
+| Toml | 16 | 13 | 10 | 1 |
+
 ## Source
 
 - **Upstream**: <https://github.com/shazow/wifitui>
@@ -22,6 +34,25 @@ x install wifitui
 - **Latest**: `v0.13.0` (2026-04-10)
 - **Last commit**: 2026-07-18
 - **Assets in release**: 26
+
+## Popularity
+
+- **Stars**: 329 · **Forks**: 14 · **Open issues**: 45 · **Contributors**: 10
+
+## Totals (cumulative)
+
+- **Releases**: 17 · **Merged PRs**: 101 · **Open PRs**: 11 · **Closed issues**: 23 · **Open issues**: 22 · **Commits**: 333
+
+## Recent activity
+
+| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
+|---|---|---:|---:|---:|---:|---:|---:|
+| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
+| last60d | 2026-07-12 | 0 | 1 | 4 | 0 | 1 | 18 |
+| 90d | 2026-06-12 | 0 | 3 | 4 | 0 | 1 | 39 |
+| last180d | 2026-03-14 | 2 | 11 | 5 | 6 | 8 | 57 |
+| 360d | 2025-09-15 | 15 | 50 | 10 | 20 | 20 | 158 |
+| last720d | 2024-09-20 | 17 | 101 | 11 | 23 | 22 | 333 |
 
 ## Release assets
 
@@ -54,33 +85,15 @@ x install wifitui
 | [wifitui_0.13.0_checksums.txt](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui_0.13.0_checksums.txt) | 1.2 KiB | `other` |
 | [wifitui_0.13.0_checksums.txt.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui_0.13.0_checksums.txt.sig) | 119 B | `other` |
 
-## Popularity
+## Distribution status
 
-- **Stars**: 329 · **Forks**: 14 · **Open issues**: 45 · **Contributors**: 10
+Reported by **10** distros on [repology.org](https://repology.org/project/wifitui). **9** are ✅ on the latest upstream release, **0** are ⚠️ on an older version.
 
-## Totals (cumulative)
-
-- **Releases**: 17 · **Merged PRs**: 101 · **Open PRs**: 11 · **Closed issues**: 23 · **Open issues**: 22 · **Commits**: 333
-
-## Recent activity
-
-| Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
-|---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-11 | 0 | 0 | 2 | 0 | 0 | 0 |
-| 90d | 2026-06-12 | 0 | 3 | 4 | 0 | 1 | 39 |
-| 360d | 2025-09-15 | 15 | 50 | 10 | 20 | 20 | 158 |
-
-## Code size
-
-Total: **9,196** lines of code across **54** files in the top 5 languages.
-
-| Language | Code | Comments | Blanks | Files |
-|----------|-----:|---------:|-------:|------:|
-| Go | 8,712 | 607 | 1,268 | 49 |
-| Nix | 300 | 1 | 47 | 2 |
-| ObjectiveC | 139 | 1 | 13 | 1 |
-| Makefile | 24 | 2 | 11 | 1 |
-| Toml | 16 | 13 | 10 | 1 |
+| Distro | Version | Status |
+|--------|---------|--------|
+| Homebrew | `0.13.0` | ✅ latest |
+| Nix unstable | `0.13.0` | ✅ latest |
+| Alpine edge | `0.13.0` | ✅ latest |
 
 ## Improve this data
 
@@ -91,4 +104,4 @@ Install metadata for wifitui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T16:48:55Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T21:40:25Z._
