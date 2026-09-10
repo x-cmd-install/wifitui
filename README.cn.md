@@ -4,7 +4,7 @@
 
 Fast featureful friendly wifi terminal UI. 🛜✨
 
-![wifitui](https://repo.x-cmd.io/wifitui.svg)
+![wifitui](https://repo.x-cmd.io/wifitui.svg?lang=zh)
 
 ## 安装
 
@@ -22,7 +22,37 @@ x install wifitui
 - **最新版本**: `v0.13.0` (2026-04-10)
 - **最近提交**: 2026-07-18
 - **Release 含资产**: 26 个
-- **发布时间**: 2026-04-10T17:09:12Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [wifitui-0.13.0-darwin-arm64.tar.gz](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-darwin-arm64.tar.gz) | 1.6 MiB | `native/darwin/arm64` |
+| [wifitui-0.13.0-darwin-arm64.tar.gz.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-darwin-arm64.tar.gz.sig) | 119 B | `native/darwin/arm64` |
+| [wifitui-0.13.0-darwin-x86_64.tar.gz](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-darwin-x86_64.tar.gz) | 1.7 MiB | `native/darwin/x64` |
+| [wifitui-0.13.0-darwin-x86_64.tar.gz.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-darwin-x86_64.tar.gz.sig) | 119 B | `native/darwin/x64` |
+| [wifitui-0.13.0-freebsd-arm64.tar.gz](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-freebsd-arm64.tar.gz) | 1.5 MiB | `native/linux/arm64` |
+| [wifitui-0.13.0-freebsd-arm64.tar.gz.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-freebsd-arm64.tar.gz.sig) | 119 B | `other` |
+| [wifitui-0.13.0-freebsd-x86_64.tar.gz](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-freebsd-x86_64.tar.gz) | 1.6 MiB | `native/linux/x64` |
+| [wifitui-0.13.0-freebsd-x86_64.tar.gz.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-freebsd-x86_64.tar.gz.sig) | 119 B | `other` |
+| [wifitui-0.13.0-linux-arm64.deb](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.deb) | 2.3 MiB | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.deb.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.deb.sig) | 119 B | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.pkg.tar.zst](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.pkg.tar.zst) | 2.2 MiB | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.pkg.tar.zst.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.pkg.tar.zst.sig) | 119 B | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.rpm](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.rpm) | 2.3 MiB | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.rpm.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.rpm.sig) | 119 B | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.tar.gz](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.tar.gz) | 2.3 MiB | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-arm64.tar.gz.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.tar.gz.sig) | 119 B | `native/linux/arm64` |
+| [wifitui-0.13.0-linux-x86_64.deb](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.deb) | 2.5 MiB | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.deb.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.deb.sig) | 119 B | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.pkg.tar.zst](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.pkg.tar.zst) | 2.5 MiB | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.pkg.tar.zst.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.pkg.tar.zst.sig) | 119 B | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.rpm](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.rpm) | 2.5 MiB | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.rpm.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.rpm.sig) | 119 B | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.tar.gz](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.tar.gz) | 2.5 MiB | `native/linux/x64` |
+| [wifitui-0.13.0-linux-x86_64.tar.gz.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.tar.gz.sig) | 119 B | `native/linux/x64` |
+| [wifitui_0.13.0_checksums.txt](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui_0.13.0_checksums.txt) | 1.2 KiB | `other` |
+| [wifitui_0.13.0_checksums.txt.sig](https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui_0.13.0_checksums.txt.sig) | 119 B | `other` |
 
 ## 流行度
 
@@ -61,4 +91,4 @@ wifitui 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install) 
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T05:06:55Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:48:55Z._
