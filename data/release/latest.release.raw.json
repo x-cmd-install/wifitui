@@ -571,7 +571,7 @@
       "state": "uploaded",
       "size": 2390717,
       "digest": "sha256:c8e1ac434705bc67c49a3d4d75d7bd60aff1aee0390089bac6a80b8da63acbf6",
-      "download_count": 17,
+      "download_count": 18,
       "created_at": "2026-04-10T17:10:17Z",
       "updated_at": "2026-04-10T17:10:17Z",
       "browser_download_url": "https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-arm64.tar.gz"
@@ -715,7 +715,7 @@
       "state": "uploaded",
       "size": 2617325,
       "digest": "sha256:e5a0146f31d5f0886e9a6c1cdd6ef546a48837a396ac5a05306ec800295ed379",
-      "download_count": 497,
+      "download_count": 500,
       "created_at": "2026-04-10T17:10:18Z",
       "updated_at": "2026-04-10T17:10:18Z",
       "browser_download_url": "https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.pkg.tar.zst"
@@ -859,7 +859,7 @@
       "state": "uploaded",
       "size": 2607369,
       "digest": "sha256:4c82bb3d68388507bc414f0d4fc5833066115e00cbb6d2683eac827602535cf2",
-      "download_count": 190,
+      "download_count": 191,
       "created_at": "2026-04-10T17:10:17Z",
       "updated_at": "2026-04-10T17:10:17Z",
       "browser_download_url": "https://github.com/shazow/wifitui/releases/download/v0.13.0/wifitui-0.13.0-linux-x86_64.tar.gz"
