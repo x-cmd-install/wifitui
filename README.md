@@ -37,22 +37,22 @@ Total: **9,196** lines of code across **54** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 334 · **Forks**: 14 · **Open issues**: 45 · **Contributors**: 10
+- **Stars**: 335 · **Forks**: 14 · **Open issues**: 45 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 101 · **Open PRs**: 11 · **Closed issues**: 23 · **Open issues**: 22 · **Commits**: 333
+- **Releases**: 17 · **Merged PRs**: 101 · **Open PRs**: 12 · **Closed issues**: 23 · **Open issues**: 22 · **Commits**: 333
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-25 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-07-26 | 0 | 0 | 3 | 0 | 0 | 0 |
-| 90d | 2026-06-26 | 0 | 3 | 4 | 0 | 1 | 39 |
-| last180d | 2026-03-28 | 2 | 8 | 4 | 3 | 7 | 47 |
-| 360d | 2025-09-29 | 12 | 47 | 10 | 19 | 17 | 152 |
-| last720d | 2024-10-04 | 17 | 101 | 11 | 23 | 22 | 333 |
+| 30d | 2026-08-26 | 0 | 0 | 1 | 0 | 0 | 0 |
+| last60d | 2026-07-27 | 0 | 0 | 4 | 0 | 0 | 0 |
+| 90d | 2026-06-27 | 0 | 3 | 5 | 0 | 1 | 39 |
+| last180d | 2026-03-29 | 1 | 8 | 5 | 2 | 7 | 47 |
+| 360d | 2025-09-30 | 12 | 47 | 11 | 19 | 17 | 152 |
+| last720d | 2024-10-05 | 17 | 101 | 12 | 23 | 22 | 333 |
 
 ## Release assets
 
@@ -94,4 +94,4 @@ Install metadata for wifitui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260924.yml` · 2026-09-24T05:04:56Z._
+_Snapshot: `data/card/260925.yml` · 2026-09-25T05:15:26Z._
