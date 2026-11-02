@@ -4,7 +4,7 @@
   binname: wifitui
   visiblename: wifitui
   version: 0.13.0
-  origversion: 0.13.0-r0
+  origversion: 0.13.0-r1
   status: newest
   summary: Fast featureful friendly wifi terminal UI
   maintainers:
@@ -17,7 +17,7 @@
   binname: wifitui-doc
   visiblename: wifitui-doc
   version: 0.13.0
-  origversion: 0.13.0-r0
+  origversion: 0.13.0-r1
   status: newest
   summary: Fast featureful friendly wifi terminal UI (documentation)
   maintainers:
