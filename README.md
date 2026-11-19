@@ -14,11 +14,11 @@ x install wifitui
 
 ## Code insight
 
-Total: **9,196** lines of code across **54** files in the top 5 languages.
+Total: **9,249** lines of code across **54** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Go | 8,712 | 607 | 1,268 | 49 |
+| Go | 8,765 | 607 | 1,271 | 49 |
 | Nix | 300 | 1 | 47 | 2 |
 | ObjectiveC | 139 | 1 | 13 | 1 |
 | Makefile | 24 | 2 | 11 | 1 |
@@ -32,27 +32,27 @@ Total: **9,196** lines of code across **54** files in the top 5 languages.
 ## Release
 
 - **Latest**: `v0.13.0` (2026-04-10)
-- **Last commit**: 2026-07-18
+- **Last commit**: 2026-11-18
 - **Assets in release**: 26
 
 ## Popularity
 
-- **Stars**: 354 · **Forks**: 14 · **Open issues**: 45 · **Contributors**: 10
+- **Stars**: 355 · **Forks**: 14 · **Open issues**: 46 · **Contributors**: 10
 
 ## Totals (cumulative)
 
-- **Releases**: 17 · **Merged PRs**: 101 · **Open PRs**: 11 · **Closed issues**: 23 · **Open issues**: 22 · **Commits**: 333
+- **Releases**: 17 · **Merged PRs**: 102 · **Open PRs**: 12 · **Closed issues**: 24 · **Open issues**: 22 · **Commits**: 337
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last60d | 2026-09-18 | 0 | 0 | 0 | 0 | 0 | 0 |
-| 90d | 2026-08-19 | 0 | 0 | 0 | 0 | 0 | 0 |
-| last180d | 2026-05-21 | 0 | 3 | 4 | 0 | 3 | 39 |
-| 360d | 2025-11-22 | 6 | 31 | 9 | 14 | 17 | 120 |
-| last720d | 2024-11-27 | 17 | 101 | 11 | 23 | 22 | 333 |
+| 30d | 2026-10-20 | 0 | 1 | 1 | 1 | 0 | 3 |
+| last60d | 2026-09-20 | 0 | 1 | 1 | 1 | 0 | 3 |
+| 90d | 2026-08-21 | 0 | 1 | 1 | 1 | 0 | 3 |
+| last180d | 2026-05-23 | 0 | 4 | 5 | 1 | 3 | 42 |
+| 360d | 2025-11-24 | 6 | 32 | 10 | 14 | 17 | 123 |
+| last720d | 2024-11-29 | 17 | 102 | 12 | 24 | 22 | 337 |
 
 ## Release assets
 
@@ -104,4 +104,4 @@ Install metadata for wifitui lives in the [x-cmd/install](https://github.com/x-c
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261117.yml` · 2026-11-17T09:58:55Z._
+_Snapshot: `data/card/261119.yml` · 2026-11-19T07:53:54Z._
